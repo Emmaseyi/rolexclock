@@ -1,2 +1,2 @@
-# rolexclock.io
-click this link emmaseyi.github.io
+# rolexclock
+https://emmaseyi.github.io/rolexclock/
